@@ -1,0 +1,9 @@
+img{
+    border-radius: 50%
+}
+body {
+    text-align: center;
+    font-family: Times New Roman;
+    background: rgba(173, 150, 74, 0.705);
+    color: mintcream;
+}
